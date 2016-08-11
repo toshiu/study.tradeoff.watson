@@ -16,7 +16,7 @@ import com.ibm.watson.developer_cloud.tradeoff_analytics.v1.model.column.Numeric
 
 public class TestMain {
 
-	private static String username = "1fc066347-43ae-427f-818e-f5578714d003";
+	private static String username = "fc066347-43ae-427f-818e-f5578714d003";
 	private static String password = "XDeZYl4YPBxh";
 
 	public static void main(String[] args) {
